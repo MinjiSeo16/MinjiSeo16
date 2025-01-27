@@ -1,5 +1,5 @@
-<h2 align="center">Hi 😊 I'm Minji Seo, an aspiring backend developer</h2>
-<h4 align="center">I aim to build a strong foundation in the basics and become a flexible developer ready for new challenges!</h4>
+<h1 align="center">Hi 😊 I'm Minji Seo, an aspiring backend developer</h1>
+<h3 align="center">I aim to build a strong foundation in the basics and become a flexible developer ready for new challenges!</h3>
 
 <p align="center">
   📝 I regularly write articles on <a href="https://velog.io/@smj_716/series">Velog Series</a> <br/>
